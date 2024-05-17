@@ -1,0 +1,1 @@
+greecenew.txt's wednesday morning was not calculated, therefore the value from the thursday morning is used to get an estimate.
